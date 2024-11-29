@@ -1,0 +1,12 @@
+bra\ifsp\edu\br\cheetah\model\Monitor.class
+bra\ifsp\edu\br\cheetah\controller\UserController$AlunoController.class
+bra\ifsp\edu\br\cheetah\repository\UserRepository.class
+bra\ifsp\edu\br\cheetah\controller\UserController$MonitorController.class
+bra\ifsp\edu\br\cheetah\dto\LoginRequest.class
+bra\ifsp\edu\br\cheetah\controller\LoginController.class
+bra\ifsp\edu\br\cheetah\model\User.class
+bra\ifsp\edu\br\cheetah\config\CorsConfig.class
+bra\ifsp\edu\br\cheetah\model\Aluno.class
+bra\ifsp\edu\br\cheetah\service\UserService.class
+bra\ifsp\edu\br\cheetah\controller\UserController.class
+bra\ifsp\edu\br\cheetah\CheetahApplication.class

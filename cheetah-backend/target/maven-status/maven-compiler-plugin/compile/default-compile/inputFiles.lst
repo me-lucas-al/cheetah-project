@@ -1,0 +1,10 @@
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\CheetahApplication.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\config\CorsConfig.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\controller\LoginController.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\controller\UserController.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\dto\LoginRequest.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\model\Aluno.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\model\Monitor.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\model\User.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\repository\UserRepository.java
+C:\Projetos\cheetah-backend\src\main\java\bra\ifsp\edu\br\cheetah\service\UserService.java
