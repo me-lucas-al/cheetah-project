@@ -1,6 +1,8 @@
 ## 🐆 Cheetah Project
 
-O Cheetah é uma plataforma em desenvolvimento que conecta alunos com interesses em comum, como a mesma universidade ou curso, por meio de chats em grupo ou individuais. Monitores acompanham essas conversas para garantir um ambiente saudável, educativo e colaborativo.
+O Cheetah é uma plataforma em desenvolvimento que conecta alunos com interesses em comum — como o mesmo curso ou universidade — por meio de chats individuais e em grupo.
+
+O objetivo é promover a troca de experiências e dicas sobre vestibulares, com apoio tanto de quem está se preparando quanto de quem já faz parte da instituição desejada. Além disso, monitores acompanham as conversas para garantir um ambiente saudável, educativo e colaborativo, incentivando a troca de conhecimento de forma respeitosa e segura.
 
 ---
 
