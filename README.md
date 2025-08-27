@@ -1,6 +1,3 @@
-Perfeito! Aqui está o README completo do **Cheetah Project** já com a seção “Como rodar” formatada corretamente para GitHub:
-
-````markdown
 # 🐆 Cheetah Project
 
 O Cheetah é uma plataforma em desenvolvimento que conecta alunos com interesses em comum — como o mesmo curso ou universidade — por meio de chats individuais e em grupo.
@@ -123,7 +120,3 @@ O frontend será iniciado em `http://localhost:5173`.
 * Configure corretamente as variáveis do `.env` tanto no backend quanto no frontend.
 * Para produção, configure CORS e aponte o frontend para o endereço real do backend.
 
-```
-
-Se você quiser, posso também criar uma **versão ainda mais enxuta**, com instruções mínimas de rodar backend e frontend, ideal para GitHub sem poluir o README. Quer que eu faça?
-```
